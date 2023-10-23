@@ -29,14 +29,14 @@ with col1:
         link="https://vitorbatista.shinyapps.io/acidentes/")
     projeto_componente(
         nome="Aprendizado de Frações",
-        descricao="Atuei como consultor em um projeto que visava verificar a eficácia de uma nova metodologia para o ensino de frações (tópico de matemática básica) a alunos do ensino fundamental. Como os dados não são públicos, não posso divulgar mais informações sobre esse projeto.",
+        descricao="Atuei como consultor em um projeto que visava verificar a eficácia de uma nova metodologia para o ensino de frações (tópico de matemática básica) a alunos do ensino fundamental. A solução final foi o ajuste de uma Regressão Poisson com efeitos aleatórios.",
         link="",
         confidencial=True)
 
 with col2:
     projeto_componente(
         nome="Insuficiência Cardíaca",
-        descricao="Atuei como consultor em um projeto que visava verificar a relação entre o perfil hemodinâmico de pacientes admitidos com insuficiência cardíaca e a mortalidade. Como os dados não são públicos, não posso divulgar mais informações sobre esse projeto.",
+        descricao="Atuei como consultor em um projeto que visava verificar a relação entre o perfil hemodinâmico de pacientes admitidos com insuficiência cardíaca e a mortalidade. A solução final foi o ajuste de uma Regressão Logística.",
         link="",
         confidencial=True)
     projeto_componente(
@@ -46,7 +46,7 @@ with col2:
         confidencial=True)
     projeto_componente(
         nome="Burnout em Árbitros de Volei",
-        descricao="Atuei como consultor em um projeto que visava verificar como as estratégias de enfrentamento utilizadas por árbitros de vôlei impactavam seus níveis de burnout. Como os dados não são públicos, não posso divulgar mais informações sobre esse projeto.",
+        descricao="Atuei como consultor em um projeto que visava verificar como as estratégias de enfrentamento utilizadas por árbitros de vôlei impactavam seus níveis de burnout. A solução final foi o ajuste de uma Regressão Poisson.",
         link="",
         confidencial=True)
 
